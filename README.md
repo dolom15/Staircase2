@@ -1,1 +1,1 @@
-# Staircase2
+# Staircase2 This code prints a right-aligned staircase of height `n` using the `staircase` function, where each row contains spaces followed by hash (`#`) symbols. It reads the integer `n` from input and builds each row by combining the correct number of spaces and hashes before printing.
